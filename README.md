@@ -1,6 +1,6 @@
 # Build a Real-Time Miro Clone With Nextjs, React, Tailwind (2024)
 
-### Crazy Miro clone build by Antonia, Loved and enjoyed every moment of the video.
+### Miro clone build by Antonia, Loved and enjoyed every moment of the video.
 
 ![Copy of Copy of Copy of Copy of Fullstack Twitter Clone (11)](https://github.com/AntonioErdeljac/next14-miro-clone/assets/23248726/1f973316-0bf4-4fa0-b014-40bb9edc1942)
 
